@@ -10,7 +10,7 @@ body{
     position: relative;
     display: flex;
     justify-content: space-between;
-    margin-left: 14%;
+    margin-left: 12%;
 }
 
 .container .card{
